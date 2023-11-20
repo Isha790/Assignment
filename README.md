@@ -2,7 +2,7 @@
 # Profile Screen
 A profile screen created using ReactJS for the task of Terribly Tiny Tales.
 
-
+this is my project deployment
 netlify link : https://isha01.netlify.app/
 
 
